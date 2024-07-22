@@ -34,7 +34,6 @@ After visualizing it on Lucidchart, we created it on Jupyter Notebook for better
 
 The first step is to create a Google Cloud account followed by creating a project with bucket name and uploading data in csv format on buckets in object cloud storage.
 
-![image](https://github.com/hiteshujani2002/uber-etl-data-engineering-project/assets/84509735/6ab181af-5218-4c28-9133-b576c039d925)
 
 - ### Create a VM instance 
 
